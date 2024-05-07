@@ -1,0 +1,18 @@
+
+pluginManagement {
+    repositories {
+        maven {
+            allowInsecureProtocol  true
+            url 'url \'https://maven.aliyun.com/repository/public\''
+        }
+    }
+}
+dependencyResolutionManagement {
+    repositories {
+        maven {
+            allowInsecureProtocol  true
+            url 'url \'https://maven.aliyun.com/repository/public\''
+        }
+    }
+}
+rootProject.name = "QQBot"

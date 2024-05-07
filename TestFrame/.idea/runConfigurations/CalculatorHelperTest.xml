@@ -1,0 +1,19 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CalculatorHelperTest" type="JUnit" factoryName="JUnit">
+    <module name="TestFrame" />
+    <extension name="coverage" sample_coverage="false">
+      <pattern>
+        <option name="PATTERN" value="calculator.CalculatorHelperTest" />
+        <option name="ENABLED" value="true" />
+        <option name="INCLUDE" value="false" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="calculator" />
+    <option name="MAIN_CLASS_NAME" value="calculator.CalculatorHelperTest" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
